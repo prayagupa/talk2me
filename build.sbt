@@ -2,6 +2,6 @@ name := "talk2me"
 
 version := "1.0"
 
-scalaVersion := "2.12.2"
+scalaVersion := "3.3.4"
 
-libraryDependencies += "com.typesafe" % "config" % "1.3.1"
+libraryDependencies += "com.typesafe" % "config" % "1.4.3"
